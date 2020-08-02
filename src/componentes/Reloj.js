@@ -7,3 +7,4 @@ const Reloj = ({texto})=>{
         <h1>{texto}</h1>
     );
 }
+export default Reloj;
